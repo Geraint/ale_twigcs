@@ -16,7 +16,7 @@ To install with [Pathogen](https://github.com/tpope/vim-pathogen):
 
 ```bash
 cd ~/.vim/bundle
-git clone https://github.com/dshumaker/ale_twigcs.git
+git clone https://github.com/danshumaker/ale_twigcs.git
 ```
 
 ### Installation with Vundle
@@ -24,7 +24,7 @@ git clone https://github.com/dshumaker/ale_twigcs.git
 To install using [Vundle](https://github.com/VundleVim/Vundle.vim):
 
 ```vim
-Plugin 'dshumaker/ale_twigcs'
+Plugin 'danshumaker/ale_twigcs'
 ```
 
 ### Installation with Vim-Plug
@@ -32,7 +32,7 @@ Plugin 'dshumaker/ale_twigcs'
 To install with [Vim-Plug](https://github.com/junegunn/vim-plug):
 
 ```vim
-Plug 'dshumaker/ale_twigcs'
+Plug 'danshumaker/ale_twigcs'
 ```
 
 and running `:PlugInstall`.
